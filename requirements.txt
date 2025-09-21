@@ -1,4 +1,6 @@
-selenium
+requests
 beautifulsoup4
+python-dotenv
 lxml
-undetected-chromedriver
+urllib3
+argparse
